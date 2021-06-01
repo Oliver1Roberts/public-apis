@@ -6,7 +6,7 @@ A public API for this project can be found [here](https://github.com/davemachado
 
 For information on contributing to this project, please see the [contributing guide](CONTRIBUTING.md).
 
-**NOTE: A passing build status indicates all listed APIs are available since the last update. A failing build status indicates that 1 or more services may be unavailable at the moment.**
+*NOTE: A passing build status indicates all listed APIs are available since the last update. A failing build status indicates that 1 or more services may be unavailable at the moment.*
 
 ## Index
 
